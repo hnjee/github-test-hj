@@ -1,12 +1,24 @@
-1. Repository 생성: 이현지 + Collaborator: 한성경
-https://github.com/hnjee/github-test-hj
+## Collaborator 실습  
+Collaborator로 초대 -> Clone -> 브랜치 생성 -> PR -> Merge
 
-2. Repository 생성: 한성경 + Collaborator: 이현지
-https://github.com/dxmlk/github-test-dxmlk
+> Repository 생성: 이현지 + Collaborator: 한성경
+> 
+> https://github.com/hnjee/github-test-hj
 
-3. Repository 생성: 이현지 + Contributor: 한성경
-https://github.com/hnjee/git-remote-test
+> Repository 생성: 한성경 + Collaborator: 이현지
+> 
+> https://github.com/dxmlk/dxmlk-git-test
 
-4. Repository 생성: 한성경 + Contributor: 이현지
-https://github.com/dxmlk/git-remote-test
+<br/>
+
+## Contributor 실습 
+Fork -> Clone -> PR -> Merge -> Contributor로 자동 등록됨
+
+> Repository 생성: 이현지 + Contributor: 한성경
+> 
+> https://github.com/hnjee/git-remote-test
+
+> Repository 생성: 한성경 + Contributor: 이현지
+> 
+> https://github.com/dxmlk/git-remote-test
      
