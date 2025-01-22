@@ -1,5 +1,6 @@
 ## Collaborator 실습  
-Repository 생성 -> Collaborator로 초대 -> Clone -> 브랜치 생성 -> PR -> Merge
+* Repository 생성자: Repository 생성 -> Collaborator 초대 </br>
+* Collaborator: Repository Clone -> 브랜치 생성 -> PR -> 수락되면 Merge됨
 
 > Repository 생성: 이현지 + Collaborator: 한성경
 > 
@@ -12,7 +13,8 @@ Repository 생성 -> Collaborator로 초대 -> Clone -> 브랜치 생성 -> PR -
 <br/>
 
 ## Contributor 실습 
-Repository Fork -> Clone -> PR -> Merge -> Contributor로 자동 등록됨
+* Repository 생성자: Repository 생성 </br>
+* Contributor: Repository Fork -> Clone -> PR -> 수락되면 Merge되고 Contributor로 자동 등록됨
 
 > Repository 생성: 이현지 + Contributor: 한성경
 > 
